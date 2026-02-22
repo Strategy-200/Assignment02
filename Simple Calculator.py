@@ -1,4 +1,5 @@
-
+# Simple Calculator Program
+# This program performs basic arithmetic operations on two numbers
 n1 = int(input("Enter first number: "))
 n2 = int(input("Enter second number: "))
 
